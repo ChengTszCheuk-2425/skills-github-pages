@@ -1,5 +1,9 @@
 <header>
 
+<title>
+お前を芸術品に仕立てや・・・仕立てあげてやんだよ お前をげいじゅつし・・・品にしたんだよ！
+<title>
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
